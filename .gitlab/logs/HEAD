@@ -1,0 +1,43 @@
+0000000000000000000000000000000000000000 124b16c08cf7d9f4c9b6d5347cea083845b0332f Nam Tong <namtong626@gmail.com> 1723619433 +0700	clone: from https://git.dkviet.com/namth306/sconnect-management.git
+124b16c08cf7d9f4c9b6d5347cea083845b0332f 04e4f44b0fbf3fec62db37658256f8998c8db260 Nam Tong <namtong626@gmail.com> 1723619468 +0700	checkout: moving from master to merge-unit-test
+04e4f44b0fbf3fec62db37658256f8998c8db260 124b16c08cf7d9f4c9b6d5347cea083845b0332f Nam Tong <namtong626@gmail.com> 1724214902 +0700	checkout: moving from merge-unit-test to master
+124b16c08cf7d9f4c9b6d5347cea083845b0332f fb67d7bced79089eef356e84508b675a350d18a7 Nam Tong <namtong626@gmail.com> 1724214912 +0700	checkout: moving from master to develop
+fb67d7bced79089eef356e84508b675a350d18a7 991d1652b51b96c2b1f6a7da9f169fef09b65682 Nam Tong <namtong626@gmail.com> 1724214925 +0700	pull origin develop: Fast-forward
+991d1652b51b96c2b1f6a7da9f169fef09b65682 991d1652b51b96c2b1f6a7da9f169fef09b65682 Nam Tong <namtong626@gmail.com> 1724215550 +0700	checkout: moving from develop to codebase
+991d1652b51b96c2b1f6a7da9f169fef09b65682 c83f21505b15dbbe085817cbdfc9633a2390d416 Nam Tong <namtong626@gmail.com> 1724215557 +0700	commit: update codebase
+c83f21505b15dbbe085817cbdfc9633a2390d416 991d1652b51b96c2b1f6a7da9f169fef09b65682 Nam Tong <namtong626@gmail.com> 1724215561 +0700	checkout: moving from codebase to develop
+991d1652b51b96c2b1f6a7da9f169fef09b65682 ed6a6312605f88270abff870eed5cf21d2b8a44d Nam Tong <namtong626@gmail.com> 1724215576 +0700	pull origin develop: Fast-forward
+ed6a6312605f88270abff870eed5cf21d2b8a44d c83f21505b15dbbe085817cbdfc9633a2390d416 Nam Tong <namtong626@gmail.com> 1724215583 +0700	checkout: moving from develop to codebase
+c83f21505b15dbbe085817cbdfc9633a2390d416 ed6a6312605f88270abff870eed5cf21d2b8a44d Nam Tong <namtong626@gmail.com> 1724215586 +0700	rebase (start): checkout develop
+ed6a6312605f88270abff870eed5cf21d2b8a44d 59c6602e7c6fa6c120b0ba32b1331e32f07fc177 Nam Tong <namtong626@gmail.com> 1724215615 +0700	commit: update codebase
+59c6602e7c6fa6c120b0ba32b1331e32f07fc177 59c6602e7c6fa6c120b0ba32b1331e32f07fc177 Nam Tong <namtong626@gmail.com> 1724215621 +0700	rebase (finish): returning to refs/heads/codebase
+59c6602e7c6fa6c120b0ba32b1331e32f07fc177 909f47c88ea12f065e46c4e5217867f9e6a617bc Nam Tong <namtong626@gmail.com> 1724294977 +0700	commit: codebase powergrid
+909f47c88ea12f065e46c4e5217867f9e6a617bc ed6a6312605f88270abff870eed5cf21d2b8a44d Nam Tong <namtong626@gmail.com> 1724747641 +0700	checkout: moving from codebase to develop
+ed6a6312605f88270abff870eed5cf21d2b8a44d ed6a6312605f88270abff870eed5cf21d2b8a44d Nam Tong <namtong626@gmail.com> 1724827166 +0700	checkout: moving from develop to datatable
+ed6a6312605f88270abff870eed5cf21d2b8a44d 002d27bfa3ea6d4e4a201fe32fa36a5668c8cf86 Nam Tong <namtong626@gmail.com> 1724905655 +0700	commit: update codebase
+002d27bfa3ea6d4e4a201fe32fa36a5668c8cf86 ed6a6312605f88270abff870eed5cf21d2b8a44d Nam Tong <namtong626@gmail.com> 1725441573 +0700	checkout: moving from datatable to develop
+ed6a6312605f88270abff870eed5cf21d2b8a44d ed6a6312605f88270abff870eed5cf21d2b8a44d Nam Tong <namtong626@gmail.com> 1725441613 +0700	checkout: moving from develop to crm
+ed6a6312605f88270abff870eed5cf21d2b8a44d 002d27bfa3ea6d4e4a201fe32fa36a5668c8cf86 Nam Tong <namtong626@gmail.com> 1725443292 +0700	checkout: moving from crm to datatable
+002d27bfa3ea6d4e4a201fe32fa36a5668c8cf86 ed6a6312605f88270abff870eed5cf21d2b8a44d Nam Tong <namtong626@gmail.com> 1725444717 +0700	checkout: moving from datatable to crm
+ed6a6312605f88270abff870eed5cf21d2b8a44d ed6a6312605f88270abff870eed5cf21d2b8a44d Nam Tong <namtong626@gmail.com> 1725445258 +0700	reset: moving to HEAD
+ed6a6312605f88270abff870eed5cf21d2b8a44d 002d27bfa3ea6d4e4a201fe32fa36a5668c8cf86 Nam Tong <namtong626@gmail.com> 1725445265 +0700	checkout: moving from crm to datatable
+002d27bfa3ea6d4e4a201fe32fa36a5668c8cf86 fdd36eb6aeba693eb8d7da785124c43286a29c16 Nam Tong <namtong626@gmail.com> 1725445355 +0700	commit: delete unit test
+fdd36eb6aeba693eb8d7da785124c43286a29c16 ed6a6312605f88270abff870eed5cf21d2b8a44d Nam Tong <namtong626@gmail.com> 1725593279 +0700	checkout: moving from datatable to develop
+ed6a6312605f88270abff870eed5cf21d2b8a44d c943676346a89662ba2f0686fd9ce4e2667d6e29 Nam Tong <namtong626@gmail.com> 1725593397 +0700	checkout: moving from develop to 43-User-Management
+c943676346a89662ba2f0686fd9ce4e2667d6e29 fdd36eb6aeba693eb8d7da785124c43286a29c16 Nam Tong <namtong626@gmail.com> 1725593418 +0700	rebase (start): checkout develop
+fdd36eb6aeba693eb8d7da785124c43286a29c16 607fbab3f89495efc97beeb8c8cc753c5991d1ec Nam Tong <namtong626@gmail.com> 1725593418 +0700	rebase (pick): coding midleware auth sso
+607fbab3f89495efc97beeb8c8cc753c5991d1ec c182d7a28569d0dabd7c1819a2396a2f88873f0a Nam Tong <namtong626@gmail.com> 1725593418 +0700	rebase (pick): fix comment
+c182d7a28569d0dabd7c1819a2396a2f88873f0a 5013ae84ec3a8bc25af5c38b82ebcf4fa8130ba7 Nam Tong <namtong626@gmail.com> 1725593418 +0700	rebase (pick): [43] resovle conflict
+5013ae84ec3a8bc25af5c38b82ebcf4fa8130ba7 6708d5ff06981ea7b199f71c5b92e9b63a51c3ff Nam Tong <namtong626@gmail.com> 1725593418 +0700	rebase (pick): [43] fix comment, login via kon
+6708d5ff06981ea7b199f71c5b92e9b63a51c3ff 6708d5ff06981ea7b199f71c5b92e9b63a51c3ff Nam Tong <namtong626@gmail.com> 1725593459 +0700	rebase (finish): returning to refs/heads/43-User-Management
+6708d5ff06981ea7b199f71c5b92e9b63a51c3ff ed6a6312605f88270abff870eed5cf21d2b8a44d Nam Tong <namtong626@gmail.com> 1725593501 +0700	checkout: moving from 43-User-Management to develop
+ed6a6312605f88270abff870eed5cf21d2b8a44d 172b46ad5ee47992530c44e408974613a2c55e51 Nam Tong <namtong626@gmail.com> 1725593514 +0700	pull origin develop: Fast-forward
+172b46ad5ee47992530c44e408974613a2c55e51 6708d5ff06981ea7b199f71c5b92e9b63a51c3ff Nam Tong <namtong626@gmail.com> 1725593523 +0700	checkout: moving from develop to 43-User-Management
+6708d5ff06981ea7b199f71c5b92e9b63a51c3ff 172b46ad5ee47992530c44e408974613a2c55e51 Nam Tong <namtong626@gmail.com> 1725593535 +0700	rebase (start): checkout develop
+172b46ad5ee47992530c44e408974613a2c55e51 7a44340a4aab78cb905156f21fd24fb2dff75093 Nam Tong <namtong626@gmail.com> 1725593535 +0700	rebase (pick): coding midleware auth sso
+7a44340a4aab78cb905156f21fd24fb2dff75093 bf2010e439c3702c24be504b4d5c429fc20a97e9 Nam Tong <namtong626@gmail.com> 1725593535 +0700	rebase (pick): fix comment
+bf2010e439c3702c24be504b4d5c429fc20a97e9 df29779517afcaf7d571d5f8f1297853297e1d22 Nam Tong <namtong626@gmail.com> 1725593535 +0700	rebase (pick): [43] resovle conflict
+df29779517afcaf7d571d5f8f1297853297e1d22 7dcdfc8b34339a09a591d2e7b5e04e1e2356e863 Nam Tong <namtong626@gmail.com> 1725593535 +0700	rebase (pick): [43] fix comment, login via kon
+7dcdfc8b34339a09a591d2e7b5e04e1e2356e863 7dcdfc8b34339a09a591d2e7b5e04e1e2356e863 Nam Tong <namtong626@gmail.com> 1725593535 +0700	rebase (finish): returning to refs/heads/43-User-Management
+7dcdfc8b34339a09a591d2e7b5e04e1e2356e863 bd08bfafc1cd40a468ffb5cffcf0ad9fce2debed Nam Tong <namtong626@gmail.com> 1725606229 +0700	checkout: moving from 43-User-Management to 44-unit-test--validation-auth-sso
+bd08bfafc1cd40a468ffb5cffcf0ad9fce2debed 7d3fc00e4b2c99edaae96e652aef16667f2f4ba4 Nam Tong <namtong626@gmail.com> 1725607959 +0700	checkout: moving from 44-unit-test--validation-auth-sso to 45-management-user-and-unit-test

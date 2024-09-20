@@ -1,0 +1,26 @@
+[core]
+	repositoryformatversion = 0
+	filemode = true
+	bare = false
+	logallrefupdates = true
+[remote "origin"]
+	url = https://git.dkviet.com/namth306/sconnect-management.git
+	fetch = +refs/heads/*:refs/remotes/origin/*
+[branch "master"]
+	remote = origin
+	merge = refs/heads/master
+[branch "merge-unit-test"]
+	remote = origin
+	merge = refs/heads/merge-unit-test
+[branch "develop"]
+	remote = origin
+	merge = refs/heads/develop
+[branch "43-User-Management"]
+	remote = origin
+	merge = refs/heads/43-User-Management
+[branch "44-unit-test--validation-auth-sso"]
+	remote = origin
+	merge = refs/heads/44-unit-test--validation-auth-sso
+[branch "45-management-user-and-unit-test"]
+	remote = origin
+	merge = refs/heads/45-management-user-and-unit-test
